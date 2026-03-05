@@ -1,6 +1,6 @@
 # hello-python
 
-A simple Python hello world script.
+A Python hello world script — with showboating flair. 🎉
 
 ## Usage
 
@@ -10,6 +10,19 @@ python3 hello.py
 
 ## Output
 
+A colorful ANSI banner and tagline:
+
 ```
-Hello, World!
+  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+  ███████║█████╗  ██║     ██║     ██║   ██║
+  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+  ██║  ██║███████╗███████╗███████╗╚██████╔╝
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+
+  ✨ Hello, World! ✨
+  Greetings from b4-dev — Python never looked this good.
+  ~ crafted with pride, deployed with flair ~
 ```
+
+No external dependencies — pure Python with ANSI escape codes.
